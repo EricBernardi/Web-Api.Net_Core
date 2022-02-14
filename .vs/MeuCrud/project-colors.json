@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c43b0806-84eb-4aff-aa07-9fb17d5dff08": {
+      "ProjectGuid": "c43b0806-84eb-4aff-aa07-9fb17d5dff08",
+      "DisplayName": "MeuCrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
